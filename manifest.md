@@ -1,4 +1,4 @@
-![banner](lq_completo.png)
+![banner](lg-completo.png)
 
 ### Principios
   - Humildad
