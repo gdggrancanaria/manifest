@@ -17,7 +17,7 @@
  
  **Colaboración y participación** sobre la competición.
  
- **Compartir conocimiento por parte de muchos** frente a la adquisición y reserva de muchos conocimientos por unos pocos
+ **Compartir conocimiento por parte de muchos** frente a la adquisición y reserva de muchos conocimientos por unos pocos.
  
  Esto es, no apreciamos los elementos de la derecha, y por eso buscamos su reemplazo con los de la izquierda. 
  
@@ -30,3 +30,7 @@ Nuestra comunidad brinda una experiencia libre de acoso, maltrato y/o violencia 
 
 ###### Disclaimer
 El GDG Gran Canaria es un grupo independiente; las actividades y opiniones expresadas en esta comunidad no deben de asociarse de ninguna manera con Google la corporación.
+
+### Firmantes
+
+Jesús David González Ramos | github.com/lionicex
