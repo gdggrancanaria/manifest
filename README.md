@@ -34,7 +34,7 @@ El GDG Gran Canaria es un grupo independiente; las actividades y opiniones expre
 ### Firmantes
 
 [David González](github.com/lionicex)
-
+[Johan Sebastian Cortes Montenegro](https://github.com/itrion)
 [Laura del Pino](github.com/LauraLaureus)
  
 [Macarena Jerez](github.com/MJerezFlores)
