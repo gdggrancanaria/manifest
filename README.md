@@ -33,4 +33,4 @@ El GDG Gran Canaria es un grupo independiente; las actividades y opiniones expre
 
 ### Firmantes
 
-Jesús David González Ramos | github.com/lionicex
+David González | github.com/lionicex
