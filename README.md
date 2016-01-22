@@ -30,3 +30,7 @@ Nuestra comunidad brinda una experiencia libre de acoso, maltrato y/o violencia 
 
 ###### Disclaimer
 El GDG Gran Canaria es un grupo independiente; las actividades y opiniones expresadas en esta comunidad no deben de asociarse de ninguna manera con Google la corporación.
+
+### Firmantes
+
+David González | github.com/lionicex
