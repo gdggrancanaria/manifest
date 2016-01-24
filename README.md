@@ -35,6 +35,6 @@ El GDG Gran Canaria es un grupo independiente; las actividades y opiniones expre
 
 [David González](github.com/lionicex)
 
-[Laura del Pino](github.com/LauraLaureus)
+[Laura del Pino](https://github.com/LauraLaureus)
  
 [Macarena Jerez](github.com/MJerezFlores)
