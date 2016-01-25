@@ -38,6 +38,6 @@ Los firmantes son expuestos en una tabla para evitar crear una jerarquía visual
           |           |         |         |         |
 --------- | --------- | ------- | ------- | ------- | 
 [David González](https://github.com/lionicex) | [Laura del Pino](https://github.com/LauraLaureus) | [Macarena Jerez](https://github.com/MJerezFlores) | [Cristopher López](https://github.com/Ramclen) | [José Braulio González](https://github.com/JoseBra) |
-| | | | | |
+| [Johan Sebastian Cortes Montenegro](https://github.com/itrion) | | | | |
 | | | | | |
 | | | | | |
