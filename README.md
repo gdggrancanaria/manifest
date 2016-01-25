@@ -33,8 +33,11 @@ El GDG Gran Canaria es un grupo independiente; las actividades y opiniones expre
 
 ### Firmantes
 
-[David González](https://github.com/lionicex)
+Los firmantes son expuestos en una tabla para evitar crear una jerarquía visual en pos de una **visión horizontal y de unión**
 
-[Laura del Pino](https://github.com/LauraLaureus)
- 
-[Macarena Jerez](https://github.com/MJerezFlores)
+          |           |         |         |         |
+--------- | --------- | ------- | ------- | ------- | 
+[David González](https://github.com/lionicex) | [Laura del Pino](https://github.com/LauraLaureus) | [Macarena Jerez](https://github.com/MJerezFlores) | [Cristopher López](https://github.com/Ramclen) | |
+| | | | | |
+| | | | | |
+| | | | | |
