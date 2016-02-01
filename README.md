@@ -33,7 +33,7 @@ El GDG Gran Canaria es un grupo independiente; las actividades y opiniones expre
 
 ### Firmantes
 
-Los firmantes son expuestos en una tabla para evitar crear una jerarquía visual en pos de una **visión horizontal y de unión**
+Para firmar, envia un pull request añadiendo tu nombre y tu perfil de github, los firmantes son expuestos en una tabla para evitar crear una jerarquía visual en pos de una **visión horizontal y de unión**
 
           |           |         |         |         |
 --------- | --------- | ------- | ------- | ------- | 
